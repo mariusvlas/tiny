@@ -1,5 +1,5 @@
 {
-  "name": "tiny",
+  "name": "@marius.vlas/tiny",
   "version": "1.0.0",
   "description": "## Install `npm install @marius.vlas/tiny`",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mariusvlas/tiny.git"
   },
-  "author": "",
+  "author": "marius.vlas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mariusvlas/tiny/issues"
