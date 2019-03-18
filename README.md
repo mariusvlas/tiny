@@ -1,3 +1,4 @@
 # tiny
 
-Install npm install @marius.vlas/tiny
+## Install
+npm install @marius.vlas/tiny
