@@ -3,7 +3,7 @@
 ## Install
 `npm install @marius.vlas/tiny`
 
-Usage
+## Usage
 ```
 const tiny = require("@bamblehorse/tiny");
 
